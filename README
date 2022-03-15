@@ -1,5 +1,7 @@
-libutreexo: A c++ transliteration of the go reference implementation.
+Deprecated. This was a stub project only intended to kick off development.
 
-Maintainer wanted:
-This is intended to be a starting point to get someone going, I do not intend
-to fill in the code any further.
+See these repos which have done actual work:
+https://github.com/kcalvinalvin/libutreexo
+https://github.com/dergoegge/libutreexo
+
+Many thanks to @kcalvinalvin and @dergoegge!
